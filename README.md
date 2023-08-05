@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish Reddy</h1>
+<h1 align="center">Anish Reddy</h1>
 <h3 align="center">Passionate and results-driven Computer Science student | Proficient in C, C++, Python, and IoT | President of LeetCode Club | Award-winning Aqua Pinion developer |</h3>
 
 <img align="right" alt="COding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
