@@ -1,9 +1,7 @@
-[![MasterHead](file:///C:/Users/anish/OneDrive%20-%20Conestoga%20College/Desktop/1685748750158.jpg)](https://www.anishreddy.live/)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQHKKymz5Gb_lw/profile-displaybackgroundimage-shrink_350_1400/0/1685748750158?e=1697068800&v=beta&t=clHnavYJxjx3FfmGq8JteYPTPHibzOgpUzUYosDX3YM)](https://www.anishreddy.live/)
 
-<h1 align="center">Anish Reddy</h1>
+<h1 align="center"></h1>
 <h3 align="center">Passionate and results-driven Computer Science student | Proficient in C, C++, Python, and IoT | President of LeetCode Club | Award-winning Aqua Pinion developer |</h3>
-
-<img align="right" alt="COding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-reddy-k&label=Profile%20views&color=0e75b6&style=flat" alt="anish-reddy-k" /> </p>
 
