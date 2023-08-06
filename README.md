@@ -1,3 +1,5 @@
+[![MasterHead](file:///C:/Users/anish/OneDrive%20-%20Conestoga%20College/Desktop/1685748750158.jpg)](https://www.anishreddy.live/)
+
 <h1 align="center">Anish Reddy</h1>
 <h3 align="center">Passionate and results-driven Computer Science student | Proficient in C, C++, Python, and IoT | President of LeetCode Club | Award-winning Aqua Pinion developer |</h3>
 
