@@ -3,8 +3,6 @@
 <h1 align="center"></h1>
 <h3 align="center">Passionate and results-driven Computer Science student | Proficient in C, C++, Python, and IoT | President of LeetCode Club | Award-winning Aqua Pinion developer |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-reddy-k&label=Profile%20views&color=0e75b6&style=flat" alt="anish-reddy-k" /> </p>
-
 - 🔭 I’m currently working on [Aqua Pinion](https://www.anishreddy.live/projects?pgid=iqtuyfne-a688a012-79bf-43e7-9ecf-5df22b770c4d)
 
 - 👨‍💻 All of my projects are available at [https://www.anishreddy.live/projects](https://www.anishreddy.live/projects)
