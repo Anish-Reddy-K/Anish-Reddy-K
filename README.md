@@ -1,7 +1,5 @@
-(https://www.anishreddy.live/)
-
 <h1 align="center"></h1>
-<h3 align="center">Passionate and results-driven Computer Science student | Proficient in C, C++, Python, and IoT | President of LeetCode Club | Award-winning Aqua Pinion developer |</h3>
+<h3 align="center">Computer Science student | Proficient in C, C++, Python, and IoT | President, ConHacks | President, LeetCode Club | Award-winning Aqua Pinion developer |</h3>
 
 - 🔭 I’m currently working on [Aqua Pinion](https://www.anishreddy.live/projects?pgid=iqtuyfne-a688a012-79bf-43e7-9ecf-5df22b770c4d)
 
