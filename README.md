@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHKKymz5Gb_lw/profile-displaybackgroundimage-shrink_350_1400/0/1685748750158?e=1697068800&v=beta&t=clHnavYJxjx3FfmGq8JteYPTPHibzOgpUzUYosDX3YM)](https://www.anishreddy.live/)
+(https://www.anishreddy.live/)
 
 <h1 align="center"></h1>
 <h3 align="center">Passionate and results-driven Computer Science student | Proficient in C, C++, Python, and IoT | President of LeetCode Club | Award-winning Aqua Pinion developer |</h3>
