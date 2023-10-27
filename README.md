@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Aqua Pinion](https://www.anishreddy.live/projects?pgid=iqtuyfne-a688a012-79bf-43e7-9ecf-5df22b770c4d)
 
-- 👨‍💻 All of my projects are available at [https://www.anishreddy.live/projects](https://www.anishreddy.live/projects)
+- 👨‍💻 All of my projects are available at [https://www.anishreddy.tech](https://www.anishreddy.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@anishreddy3456](https://medium.com/@anishreddy3456)
 
