@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
-<h3 align="center">ML Engineering Intern @ OCAS | CS Sophomore | AI/ML Researcher | Executive Lead @ Google DSC | President & Co-founder @ ConHacks |</h3>
+<h3 align="center">ML Engineering Intern @ OCAS | Computer Science | AI/ML Researcher | Executive Lead @ Google DSC | President & Co-founder @ ConHacks |</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.anishreddy.tech](https://www.anishreddy.tech)
+- 👨‍💻 Portfolio Website [https://www.anishreddyk.com](https://www.anishreddyk.com)
 
 - 📫 How to reach me **anishreddy3456@gmail.com**
 
