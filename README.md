@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">ML Engineering Intern @ OCAS | Computer Science | AI/ML Researcher | Executive Lead @ Google DSC | President & Co-founder @ ConHacks |</h3>
+<h3 align="center">Data Analyst/Scientist Intern @ Geotab | Computer Science | AI/ML Researcher | Executive Lead @ Google DSC | President & Co-founder @ ConHacks |</h3>
 
 - 👨‍💻 Portfolio Website [https://www.anishreddyk.com](https://www.anishreddyk.com)
 
