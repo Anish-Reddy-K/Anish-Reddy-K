@@ -2,7 +2,7 @@
 
 Passionate about tech, AI, space, science, and engineering.
 
-I'm a final-year computer science student and AI engineer based in Waterloo. I like building practical AI systems that solve real problems — from data quality agents and RAG chatbots to ML-powered products and developer tools.
+I'm a final-year computer science student and AI engineer based in Waterloo. I like building practical AI systems that solve real problems - from data quality agents and RAG chatbots to ML-powered products and developer tools.
 
 I've worked across AI engineering, machine learning, cloud, data systems, and agentic workflows at companies like **Geotab**, **Brisk AI**, **OCAS**, and **SMART Centre**. Most of my work sits at the intersection of LLMs, agents, data, and production software.
 
@@ -10,7 +10,7 @@ I've worked across AI engineering, machine learning, cloud, data systems, and ag
 
 ## What I'm building
 
-- **[Identipix](https://identipix.com)** — AI photo delivery and lead-gen platform for photographers and studios. Matches guest selfies to event images to generate private galleries and studio leads.
+- **[Identipix](https://identipix.com)** - AI photo delivery and lead-gen platform for photographers and studios. Matches guest selfies to event images to generate private galleries and studio leads.
 - **[Hubrix](https://hubrix.ca)** — Modular LED wall made of tiles that snap into any shape and turns live data into ambient, glanceable dashboards.
 - **Aqua Pinion** — Sensor-driven drowning detection chest strap using ML with 95%+ precision.
 
