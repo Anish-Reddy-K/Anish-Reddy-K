@@ -10,6 +10,7 @@ I've worked across AI engineering, machine learning, cloud, data systems, and ag
 
 ## What I'm building
 
+- **[Bits](https://bits.arkr.ca)** — A free, illustrated curriculum taking you from raw binary to complex system architecture.
 - **[Identipix](https://identipix.com)** - AI photo delivery and lead-gen platform for photographers and studios. Matches guest selfies to event images to generate private galleries and studio leads.
 - **[Hubrix](https://hubrix.ca)** — Modular LED wall made of tiles that snap into any shape and turns live data into ambient, glanceable dashboards.
 - **Aqua Pinion** — Sensor-driven drowning detection chest strap using ML with 95%+ precision.
@@ -20,7 +21,7 @@ I've worked across AI engineering, machine learning, cloud, data systems, and ag
 
 | Project | What it does |
 |---|---|
-| [The AI Engineer's Handbook](https://github.com/Anish-Reddy-K/the-ai-engineers-handbook) | Open-source illustrated curriculum from ML fundamentals to production LLM, RAG, agent, and MCP systems |
+| [Bits by Anish Reddy]([https://github.com/Anish-Reddy-K/the-ai-engineers-handbook](https://github.com/Anish-Reddy-K/bits.arkr.ca.git)) | Open-source illustrated curriculum from ML fundamentals to production LLM, RAG, agent, and MCP systems |
 | [diagrammer](https://github.com/Anish-Reddy-K/diagrammer) | Python renderer, CLI, skill, and MCP server for clean blueprint-style SVG diagrams from JSON specs |
 | [pyperfstats](https://github.com/Anish-Reddy-K/pyperfstats) | Lightweight Python profiler with live terminal monitoring, CSV exports, and HTML reports |
 | [redact-prompt](https://github.com/Anish-Reddy-K/redact-prompt) | PII redaction library that masks sensitive prompt data before LLM calls and restores it afterward |
