@@ -38,9 +38,9 @@ I also organize hackathons, mentor students, speak at events, and help grow tech
 
 I organize hackathons, mentor students, speak at events, and help grow tech communities.
 
-- **ConHacks** — Founder & ex-Director (3 iterations, 200+ participants, 15+ sponsors)
-- **Conestoga Computing Society** — Co-Founder & ex-President (300+ members)
-- **GDG On Campus** — Executive Lead
+- **ConHacks** - Founder & ex-Director (3 iterations, 200+ participants, 15+ sponsors)
+- **Conestoga Computing Society** - Co-Founder & ex-President (300+ members)
+- **GDG On Campus** - Executive Lead
 
 ---
 
