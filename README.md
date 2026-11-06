@@ -56,4 +56,4 @@ I organize hackathons, mentor students, speak at events, and help grow tech comm
 
 ---
 
-**Portfolio:** [arkr.ca](https://arkr.ca) &nbsp;·&nbsp; **LinkedIn:** [anishreddyk](https://linkedin.com/in/anishreddyk) &nbsp;·&nbsp;
+**Portfolio:** [arkr.ca](https://arkr.ca) &nbsp;·&nbsp; **LinkedIn:** [anishreddyk](https://linkedin.com/in/anishreddyk)
