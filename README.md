@@ -17,7 +17,7 @@ I also organize hackathons, mentor students, speak at events, and help grow tech
 ## What I'm building
 - **[Identipix](https://identipix.com)** - Free, open-source tool that helps event guests find their photos. The organizer shares a public Google Drive folder, and guests take a selfie to see only the photos they’re in.
 - **[Hubrix](https://hubrix.ca)** - A retro LED display that turns live data (weather, sports, stocks) into glanceable dashboards.
-- **Aqua Pinion** — Sensor-driven drowning detection and prevention chest-strap with 95%+ precision.
+- **Aqua Pinion** - Sensor-driven drowning detection and prevention chest-strap with 95%+ precision.
 
 ---
 
