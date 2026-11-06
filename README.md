@@ -25,7 +25,7 @@ I also organize hackathons, mentor students, speak at events, and help grow tech
 
 | Project | What it does |
 |---|---|
-| [diagrammer](https://github.com/Anish-Reddy-K/diagrammer) | Python renderer, CLI, skill, and MCP server for clean blueprint-style SVG diagrams from JSON specs |
+| [diagrammer](https://github.com/Anish-Reddy-K/diagrammer) 1,200+ downloads | Python renderer, CLI, skill, and MCP server for clean blueprint-style SVG diagrams from JSON specs |
 | [pyperfstats](https://github.com/Anish-Reddy-K/pyperfstats) 1,500+ downloads | Lightweight Python profiler with live terminal monitoring, CSV exports, and HTML reports |
 | [redact-prompt](https://github.com/Anish-Reddy-K/redact-prompt) | PII redaction library that masks sensitive prompt data before LLM calls and restores it afterward |
 | [embeddium](https://github.com/Anish-Reddy-K/embeddium) | Desktop app that makes embedding generation and vector database workflows accessible to non-technical users |
