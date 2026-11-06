@@ -1,19 +1,23 @@
 # Anish Reddy
 
-Passionate about tech, AI, space, science, and engineering.
+Passionate about AI, tech, space, science and engineering.
 
-I'm a final-year computer science student and AI engineer based in Waterloo. I like building practical AI systems that solve real problems - from data quality agents and RAG chatbots to ML-powered products and developer tools.
+I’m a recent computer science grad and AI engineer based in Waterloo. 
 
-I've worked across AI engineering, machine learning, cloud, data systems, and agentic workflows at companies like **Geotab**, **Brisk AI**, **OCAS**, and **SMART Centre**. Most of my work sits at the intersection of LLMs, agents, data, and production software.
+I’ve worked across AI engineering, machine learning, cloud, data systems, and agentic workflows at companies like Geotab, Brisk AI, OCAS, and SMART Centre. most of my work sits at the intersection of LLMs, agents, data, and production software.
+
+Outside of work, I like to build hardware projects. Some of my projects and startups include Identipix (photo delivery platform), Hubrix(LED canvas), Aqua Pinion(Drowning Detection and Prevention Chest Strap), and many more...
+ 
+I enjoy turning ideas into real products, moving fast, learning deeply, and working on things that feel ambitious. I care about useful technology, strong communities, and building tools that make people’s lives easier.
+ 
+I also organize hackathons, mentor students, speak at events, and help grow tech communities.
 
 ---
 
 ## What I'm building
-
-- **[Bits](https://bits.arkr.ca)** — A free, illustrated curriculum taking you from raw binary to complex system architecture.
-- **[Identipix](https://identipix.com)** - AI photo delivery and lead-gen platform for photographers and studios. Matches guest selfies to event images to generate private galleries and studio leads.
-- **[Hubrix](https://hubrix.ca)** — Modular LED wall made of tiles that snap into any shape and turns live data into ambient, glanceable dashboards.
-- **Aqua Pinion** — Sensor-driven drowning detection chest strap using ML with 95%+ precision.
+- **[Identipix](https://identipix.com)** - Free, open-source tool that helps event guests find their photos. The organizer shares a public Google Drive folder, and guests take a selfie to see only the photos they’re in.
+- **[Hubrix](https://hubrix.ca)** - A retro LED display that turns live data (weather, sports, stocks) into glanceable dashboards.
+- **Aqua Pinion** — Sensor-driven drowning detection and prevention chest-strap with 95%+ precision.
 
 ---
 
@@ -21,7 +25,6 @@ I've worked across AI engineering, machine learning, cloud, data systems, and ag
 
 | Project | What it does |
 |---|---|
-| [Bits by Anish Reddy]([https://github.com/Anish-Reddy-K/the-ai-engineers-handbook](https://github.com/Anish-Reddy-K/bits.arkr.ca.git)) | Open-source illustrated curriculum from ML fundamentals to production LLM, RAG, agent, and MCP systems |
 | [diagrammer](https://github.com/Anish-Reddy-K/diagrammer) | Python renderer, CLI, skill, and MCP server for clean blueprint-style SVG diagrams from JSON specs |
 | [pyperfstats](https://github.com/Anish-Reddy-K/pyperfstats) | Lightweight Python profiler with live terminal monitoring, CSV exports, and HTML reports |
 | [redact-prompt](https://github.com/Anish-Reddy-K/redact-prompt) | PII redaction library that masks sensitive prompt data before LLM calls and restores it afterward |
@@ -35,8 +38,8 @@ I've worked across AI engineering, machine learning, cloud, data systems, and ag
 
 I organize hackathons, mentor students, speak at events, and help grow tech communities.
 
-- **ConHacks** — Founder & Lead Organizer (3 iterations, 200+ participants, 15+ sponsors)
-- **Conestoga Computing Society** — Co-Founder & President (300+ members)
+- **ConHacks** — Founder & ex-Director (3 iterations, 200+ participants, 15+ sponsors)
+- **Conestoga Computing Society** — Co-Founder & ex-President (300+ members)
 - **GDG On Campus** — Executive Lead
 
 ---
@@ -47,11 +50,10 @@ I organize hackathons, mentor students, speak at events, and help grow tech comm
 |---|---|---|
 | AI Engineer Intern | Geotab | May 2025 – Present |
 | Co-Founder | Hubrix | May 2026 – Present |
-| Founder | Identipix | May 2025 – Present |
 | AI Engineer Intern | Brisk AI | Jan 2025 – Apr 2025 |
 | AI/ML Engineer Intern | OCAS | May 2024 – Apr 2025 |
 | AI/ML Research Intern | SMART Centre | Sep 2023 – Apr 2024 |
 
 ---
 
-**Portfolio:** [arkr.ca](https://arkr.ca) &nbsp;·&nbsp; **LinkedIn:** [anishreddyk](https://linkedin.com/in/anishreddyk) &nbsp;·&nbsp; **Blog:** [bits.arkr.ca](https://bits.arkr.ca)
+**Portfolio:** [arkr.ca](https://arkr.ca) &nbsp;·&nbsp; **LinkedIn:** [anishreddyk](https://linkedin.com/in/anishreddyk) &nbsp;·&nbsp;
